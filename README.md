@@ -4,9 +4,9 @@
 🔍 SQL queries? Check them out here: [project_sql folder](/project_sql_Data_Analyst/)
 
 # Background
-Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs.
+This project was created to gain a deeper understanding of the data analyst job market and identify the skills that offer the greatest advantage. 
 
-Data hails from my [SQL Course](https://lukebarousse.com/sql). It's packed with insights on job titles, salaries, locations, and essential skills.
+The dataset used here combines information gathered from various internet sources with curated course materials, making it semi-realistic. The data includes job postings, publicly available online resources, and exercises offering a balanced view of job titles, salaries, locations, and in-demand skills across the data analytics field.
 
 ### The questions I wanted to answer through my SQL queries were:
 
@@ -250,6 +250,7 @@ From the analysis, several general insights emerged:
 ### Closing Thoughts
 
 This project enhanced my SQL skills and provided valuable insights into the data analyst job market. The findings from the analysis serve as a guide to prioritizing skill development and job search efforts. Aspiring data analysts can better position themselves in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data analytics.
+
 
 
 
